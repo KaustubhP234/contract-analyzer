@@ -45,15 +45,14 @@ Thumbs.db
 logs/
 *.log
 
-# Data
+# Data and outputs
 data/
 outputs/
 *.pdf
 *.docx
-*.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
